@@ -1,0 +1,66 @@
+
+body
+{
+    background-color: black;
+}
+
+#titulo
+{
+    color: white;
+    font-size: 20px;
+    
+}
+#titulo2
+{
+    color: white;
+    font-size: x-large;
+    
+}
+.subtitulo
+{
+    font-weight: bold;
+    font-size: x-large;
+    color: white;
+
+}
+#blue
+{
+    color: blue;
+    font-weight: bold;
+}
+#poderosas
+{
+    background-color: red;
+    text-decoration: underline;
+    color: white;
+    font-weight: bold;
+}
+
+.large_button
+{
+    font-weight: bold;
+    width: 300px;
+    height: 100px;
+    font-size: 30px;
+}
+#black
+{
+    font-weight: bold;
+    color: black;
+}
+#blue_gigante
+{
+    color: blue;
+    font-weight: bold;
+    font-size: x-large;
+}
+ul{
+
+}
+.conteudo 
+{
+    color: black;
+    font-size: 17px;
+    font-weight: lighter;
+   list-style-type: decimal;
+}
